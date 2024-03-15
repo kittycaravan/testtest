@@ -1,0 +1,85 @@
+[33mcommit 0eae17fb70feff2ffb22c5e4be14790b12fb572b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0637124 065b1a5
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 14:31:15 2024 +0900
+
+    Merge branch 'master' of github.com:kittycaravan/testtest
+    이미  깃헙에 올라간 두 커밋과 여기있던거 머지하는 커밋을 함
+
+[33mcommit 06371248ba2883a89192075c9253969483ea175d[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 14:26:37 2024 +0900
+
+    aaa 추가함
+
+[33mcommit 065b1a5002a9c9cc8cb0d0c3c0e4eca537ca0aa4[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 14:15:58 2024 +0900
+
+    f파일을 새로 추가함
+
+[33mcommit 438425f64a77e8ebb01eff69ab0b8cc6cec168e1[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 12:46:47 2024 +0900
+
+    e파일추가
+
+[33mcommit 06c70ff7831264379a14e1adc412c9cbb00f4e07[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 11:14:31 2024 +0900
+
+    개발제대로 시작함
+
+[33mcommit e6687efc4cfbdae53cae47b2eda6a99583dc8255[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 11:09:46 2024 +0900
+
+    d기능 추가
+
+[33mcommit dc243e4999b484957d089f0db9fb3b19279c7884[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 11:06:38 2024 +0900
+
+    s랑 x 파일 지웠음
+
+[33mcommit f04c64b3661463b7c99710305ae84aeab75d22b2[m
+Author: cat <nyang4@naver.com>
+Date:   Fri Mar 15 10:26:21 2024 +0900
+
+    s파일 추가
+
+[33mcommit 907e1ecfa056b86aa3afb63d85a8acb3b9f5dcfb[m
+Author: cat <nyang4@naver.com>
+Date:   Thu Mar 14 16:35:47 2024 +0900
+
+    x파일추가
+
+[33mcommit 4de01acf5c5b024435e8443c9b3e6aeb56b5a1be[m
+Author: cat <nyang4@naver.com>
+Date:   Thu Mar 14 12:34:48 2024 +0900
+
+    initial commit
+
+[33mcommit 827e6797440ba7dffc0c484397e1fe0abe80cc8d[m
+Author: cat <nyang4@naver.com>
+Date:   Thu Mar 14 12:30:16 2024 +0900
+
+    xxx
+
+[33mcommit f7406a91ff4bf857a5cc0ee26583765185f47e81[m
+Author: cat <nyang4@naver.com>
+Date:   Thu Mar 14 12:26:46 2024 +0900
+
+    c파일을 수정했음
+
+[33mcommit 35422b3e27fd2f3546afa24494bcac1537759911[m
+Author: cat <nyang4@naver.com>
+Date:   Thu Mar 14 12:19:45 2024 +0900
+
+    c파일을 추가했습니다
+
+[33mcommit 2115794d1fe54b5fbaa8c2da27de89c333d4fb0a[m
+Author: cat <nyang4@naver.com>
+Date:   Thu Mar 14 12:15:38 2024 +0900
+
+    initial commit
